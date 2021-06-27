@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C91F5ADE-35C4-405E-B38F-E2C527ECF3B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BlackJack_Black_Edition_0._0._6</RootNamespace>
+    <AssemblyName>BlackJack Black Edition 0.0.6</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Baralho.cs" />
+    <Compile Include="Configurador.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcoes.cs" />
+    <Compile Include="InteligenciaDeAposta.cs" />
+    <Compile Include="InteligenciaDeCarta.cs" />
+    <Compile Include="InterfaceAposta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InterfaceAposta.Designer.cs">
+      <DependentUpon>InterfaceAposta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceConfiguracao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InterfaceConfiguracao.Designer.cs">
+      <DependentUpon>InterfaceConfiguracao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jogador.cs" />
+    <Compile Include="Jogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jogo.Designer.cs">
+      <DependentUpon>Jogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuSecundario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuSecundario.Designer.cs">
+      <DependentUpon>MenuSecundario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InterfaceAposta.resx">
+      <DependentUpon>InterfaceAposta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InterfaceConfiguracao.resx">
+      <DependentUpon>InterfaceConfiguracao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jogo.resx">
+      <DependentUpon>Jogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuSecundario.resx">
+      <DependentUpon>MenuSecundario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlackJack-Image.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlackJack-Image1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlackJack - Mesa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ficha 1k.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ficha 5k.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ficha 50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ficha 125.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ficha 250.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ficha 500.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\#As Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\#As Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\#As Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\#As Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2 Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2 Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2 Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2 Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3 Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3 Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3 Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3 Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4 Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4 Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4 Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4 Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5 Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5 Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5 Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5 Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6 Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6 Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6 Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6 Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7 Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7 Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7 Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7 Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8 Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8 Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8 Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8 Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9 Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9 Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9 Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9 Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10 Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10 Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10 Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10 Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jack Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jack Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jack Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jack Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rainha Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rainha Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rainha Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rainha Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rei Copas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rei Espadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rei Ouros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rei Paus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\#As Espadas1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Baralho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BaralhoAnimic.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

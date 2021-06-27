@@ -1,0 +1,88 @@
+C:\Users\felip\Desktop\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.exe.config
+C:\Users\felip\Desktop\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.exe
+C:\Users\felip\Desktop\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.pdb
+C:\Users\felip\Desktop\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.MenuInicial.resources
+C:\Users\felip\Desktop\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.Properties.Resources.resources
+C:\Users\felip\Desktop\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csproj.GenerateResource.cache
+C:\Users\felip\Desktop\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.exe
+C:\Users\felip\Desktop\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.pdb
+C:\Users\felip\Desktop\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.MenuSecundario.resources
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.exe.config
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.exe
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.pdb
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.exe
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.pdb
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\mscorlib.dll
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\pt-BR\mscorlib.resources.dll
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\normidna.nlp
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\normnfc.nlp
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\normnfd.nlp
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\normnfkc.nlp
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\normnfkd.nlp
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csprojResolveAssemblyReference.cache
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.MenuInicial.resources
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.MenuSecundario.resources
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.Properties.Resources.resources
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csproj.GenerateResource.Cache
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.Jogo.resources
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.exe.config
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.exe
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.pdb
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.MenuInicial.resources
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.Jogo.resources
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.MenuSecundario.resources
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.Properties.Resources.resources
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csproj.GenerateResource.cache
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.exe
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.pdb
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.InterfaceAposta.resources
+D:\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.exe.config
+D:\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.exe
+D:\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.pdb
+D:\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.exe
+D:\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.pdb
+D:\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csprojResolveAssemblyReference.cache
+D:\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.MenuInicial.resources
+D:\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.InterfaceAposta.resources
+D:\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.Jogo.resources
+D:\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.MenuSecundario.resources
+D:\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.Properties.Resources.resources
+D:\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csproj.GenerateResource.Cache
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csprojResolveAssemblyReference.cache
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 0.0.6\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.InterfaceConfiguracoes.resources
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.exe.config
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.exe
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.pdb
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csprojAssemblyReference.cache
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.MenuInicial.resources
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.InterfaceAposta.resources
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.Jogo.resources
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.MenuSecundario.resources
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.Properties.Resources.resources
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csproj.GenerateResource.cache
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csproj.CoreCompileInputs.cache
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.exe
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.pdb
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.exe.config
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.exe
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.pdb
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.exe
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\BlackJack Black Edition 0.0.6.pdb
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\mscorlib.dll
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\pt-BR\mscorlib.resources.dll
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\normidna.nlp
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\normnfc.nlp
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\normnfd.nlp
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\normnfkc.nlp
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\bin\Debug\normnfkd.nlp
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csprojResolveAssemblyReference.cache
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.MenuInicial.resources
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.InterfaceAposta.resources
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.InterfaceConfiguracoes.resources
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.Jogo.resources
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.MenuSecundario.resources
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.Properties.Resources.resources
+E:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack Black Edition 0.0.6.csproj.GenerateResource.Cache
+F:\tecnicos e trabalhos\2ºInfoNet\C#\BlackJack\BlackJack Black Edition 1.0.1\BlackJack Black Edition 0.0.6\obj\Debug\BlackJack_Black_Edition_0._0._6.InterfaceConfiguracao.resources
